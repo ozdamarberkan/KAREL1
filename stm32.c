@@ -29,7 +29,7 @@
 #include <stdbool.h>
  
 /* USER CODE END Includes */
-
+ 
 /* Private typedef -----------------------------------------------------------*/
 /* USER CODE BEGIN PTD */
 /* USER CODE END PTD */
